@@ -18,7 +18,7 @@ Good discovery,
 
 ![Menu](https://img.itch.zone/aW1hZ2UvMTQxODcyMy84MzA4MTA5LnBuZw==/original/Js27K7.png)
 
-<p align="center">
+<p align="center" margin: 1em>
   <img src="https://img.itch.zone/aW1hZ2UvMTQxODcyMy84MzA4MTE2LmdpZg==/original/cI91%2BX.gif" />
   <img src="https://img.itch.zone/aW1hZ2UvMTQxODcyMy84MzA4MTE3LmdpZg==/original/QArEsr.gif" />
   <img src="https://img.itch.zone/aW1hZ2UvMTQxODcyMy84MzA4MTE4LmdpZg==/original/k6%2BRe6.gif" />
