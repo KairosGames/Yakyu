@@ -22,7 +22,6 @@ Good discovery,
   <img src="https://img.itch.zone/aW1hZ2UvMTQxODcyMy84MzA4MTE2LmdpZg==/original/cI91%2BX.gif" />
   <img src="https://img.itch.zone/aW1hZ2UvMTQxODcyMy84MzA4MTE3LmdpZg==/original/QArEsr.gif" />
   <img src="https://img.itch.zone/aW1hZ2UvMTQxODcyMy84MzA4MTE4LmdpZg==/original/k6%2BRe6.gif" />
-  <img src="https://img.itch.zone/aW1hZ2UvMTQxODcyMy84MzA4MTE4LmdpZg==/original/k6%2BRe6.gif" />
 </p>
 
 ![Victory](https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzM2LnBuZw==/original/%2BMlK4y.png)
