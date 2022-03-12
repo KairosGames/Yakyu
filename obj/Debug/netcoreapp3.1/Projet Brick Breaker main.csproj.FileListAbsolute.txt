@@ -1,0 +1,195 @@
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\DefaultFont.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.exe
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.deps.json
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.runtimeconfig.json
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.runtimeconfig.dev.json
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.dll
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.pdb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.csproj.AssemblyReference.cache
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.AssemblyInfoInputs.cache
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.AssemblyInfo.cs
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.csproj.CoreCompileInputs.cache
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.csproj.CopyComplete
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.dll
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.pdb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.genruntimeconfig.cache
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\brick.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japanola.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\osake.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\background.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\bate.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\night.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\actors\bate.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\background.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\mountains.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\night.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\sakura.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\waves.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\actors\ball.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\actors\brick.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Levels\level_1.txt
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Levels\level_2.txt
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Levels\level_3.txt
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Levels\level_4.txt
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\ballout.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\ballout.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\batehit.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\batehit.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\bateswitch.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\bateswitch.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\bricktouched.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\bricktouched.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\crack.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\crack.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\destroy.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\destroy.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\hitingball.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\hitingball.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\wall.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\wall.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japanola36.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japanola72.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\osake36.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\osake72.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japanola18.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\osake18.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\goryokaidan.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\goryokaidan.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\newmoon.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\newmoon.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\nozomi.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\nozomi.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\choice.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\select.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\levelcomplished.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\lvlcomplished.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\gameover.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\fairlady.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\pop.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\impact.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\flowers.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\framework.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\light1.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\light2.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\firework.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\whistle.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\fairlady.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\fairlady.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\bird.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\aura.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\brickout.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\stone.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\brickpop.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\delete.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\exit.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\out.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C#-Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\refresh.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.dll
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.pdb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\background.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\bate.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\brick.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\out.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japanola.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\night.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\osake.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\ballout.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\batehit.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\bateswitch.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\brickpop.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\bricktouched.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\crack.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\destroy.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\fairlady.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\hitingball.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\levelcomplished.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\wall.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\nozomi.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\nozomi.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\DefaultFont.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\actors\ball.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\actors\bate.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\actors\brick.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\aura.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\background.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\bird.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\delete.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\exit.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\flowers.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\framework.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\impact.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\light1.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\light2.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\mountains.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\night.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\refresh.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\sakura.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\images\display\waves.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japanola18.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japanola36.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japanola72.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\osake18.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\osake36.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\osake72.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\ballout.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\batehit.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\bateswitch.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\brickout.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\bricktouched.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\choice.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\crack.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\destroy.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\firework.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\gameover.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\hitingball.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\lvlcomplished.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\pop.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\select.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\stone.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\wall.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\effects\whistle.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\fairlady.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\fairlady.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\goryokaidan.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\goryokaidan.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\newmoon.ogg
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\sounds\musics\newmoon.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.exe
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Levels\level_1.txt
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Levels\level_2.txt
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Levels\level_3.txt
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Levels\level_4.txt
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.deps.json
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.runtimeconfig.json
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.runtimeconfig.dev.json
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.dll
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Projet Brick Breaker main.pdb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.csproj.AssemblyReference.cache
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.AssemblyInfoInputs.cache
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.AssemblyInfo.cs
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.csproj.CoreCompileInputs.cache
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.csproj.CopyComplete
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\obj\Debug\netcoreapp3.1\Projet Brick Breaker main.genruntimeconfig.cache
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japanola8.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japonola12.xnb
+D:\Utilisateur\Desktop\Dossier\Code\C# - Monogame\Projet BrickBreaker\Projet Brick Breaker main\bin\Debug\netcoreapp3.1\Content\japanola12.xnb

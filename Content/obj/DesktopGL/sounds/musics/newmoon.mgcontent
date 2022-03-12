@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/musics/newmoon.mp3</SourceFile>
+  <SourceTime>2022-01-13T04:39:53.2886288+01:00</SourceTime>
+  <DestFile>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/bin/DesktopGL/sounds/musics/newmoon.xnb</DestFile>
+  <DestTime>2022-01-16T09:16:38.0808004+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/bin/DesktopGL/sounds/musics/newmoon.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

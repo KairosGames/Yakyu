@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C# - Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/japanola12.spritefont</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C# - Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/japanola8.spritefont</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C# - Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/japonola12.spritefont</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/refresh.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/exit.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/delete.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/out.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/DefaultFont.spritefont</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/actors/ball.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/actors/bate.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/actors/brick.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/aura.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/background.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/bird.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/flowers.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/framework.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/impact.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/light1.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/light2.png</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/mountains.jpg</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/night.jpg</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/sakura.jpg</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/images/display/waves.jpg</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/japanola18.spritefont</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/japanola36.spritefont</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/japanola72.spritefont</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/osake18.spritefont</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/osake36.spritefont</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/osake72.spritefont</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/ballout.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/batehit.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/bateswitch.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/brickout.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/bricktouched.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/choice.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/crack.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/destroy.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/firework.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/gameover.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/hitingball.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/lvlcomplished.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/pop.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/select.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/stone.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/wall.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/whistle.wav</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/musics/fairlady.mp3</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/musics/goryokaidan.mp3</File>
+    <File>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/musics/newmoon.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>japanola12.spritefont</File>
+  </DestFiles>
+</SourceFileCollection>

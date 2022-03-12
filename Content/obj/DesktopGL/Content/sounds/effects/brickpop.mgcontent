@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/sounds/effects/brickpop.wav</SourceFile>
+  <SourceTime>2022-01-16T09:10:07.8880987+01:00</SourceTime>
+  <DestFile>D:/Utilisateur/Desktop/Dossier/Code/C#-Monogame/Projet BrickBreaker/Projet Brick Breaker main/Content/bin/DesktopGL/Content/sounds/effects/brickpop.xnb</DestFile>
+  <DestTime>2022-01-16T09:10:55.8972251+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
