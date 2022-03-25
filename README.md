@@ -4,7 +4,7 @@ Dear visitor,
 <br/>
 Here are the sources of my third video game, *Yakyu*, a 2D BrickBreaker-like, developed in the C# language in object-oriented programming, on the Monogame framework.  
 <br/>
-I share with you below some gameplay moments.  
+I share with you below some gameplay moments.   
 <br/>
 You can also discover a gameplay video by clicking on this link : https://youtu.be/Ypo2VN06aJ8   
 <br/>
